@@ -5,7 +5,23 @@ ext.versions = [
         versionName          : "1.0.0",
         ktxCore              : "1.8.0",
         composeVersion       : "1.1.1",
+        composeNavVersion    : "2.4.2",
+        constraintVersion    : '1.1.0-alpha02',
         kotlin               : '1.6.10',
         activityCompose      : '1.4.0',
         lifecycleVersion     : '2.4.1',
+        gradleBuildTool      : '7.1.2',
+
+        // di
+        hiltVersion          : '2.41',
+        hiltComposeNavigation: '1.0.0',
+
+        // network
+        retrofitVersion      : '2.9.0',
+        okhttpVersion        : '4.9.1',
+        sandwichVersion      : '1.2.5',
+
+        // coroutines
+        coroutinesVersion    : '1.6.1',
+
 ]
