@@ -1,0 +1,11 @@
+ext.versions = [
+        minSdk               : 21,
+        compileSdk           : 31,
+        versionCode          : 4,
+        versionName          : "1.0.0",
+        ktxCore              : "1.8.0",
+        composeVersion       : "1.1.1",
+        kotlin               : '1.6.10',
+        activityCompose      : '1.4.0',
+        lifecycleVersion     : '2.4.1',
+]
