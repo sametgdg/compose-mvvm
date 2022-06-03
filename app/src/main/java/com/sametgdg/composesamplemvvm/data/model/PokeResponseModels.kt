@@ -1,4 +1,4 @@
-package com.sametgdg.composesamplemvvm.data
+package com.sametgdg.composesamplemvvm.data.model
 
 
 data class PokeListResponse(

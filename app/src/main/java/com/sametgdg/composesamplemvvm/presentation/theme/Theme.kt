@@ -1,4 +1,4 @@
-package com.sametgdg.composesamplemvvm.ui.theme
+package com.sametgdg.composesamplemvvm.presentation.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

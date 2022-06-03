@@ -6,7 +6,7 @@ import androidx.activity.compose.setContent
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
 import com.sametgdg.composesamplemvvm.presentation.DisneyApplication
-import com.sametgdg.composesamplemvvm.ui.theme.ComposeSampleMvvmTheme
+import com.sametgdg.composesamplemvvm.presentation.theme.ComposeSampleMvvmTheme
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
